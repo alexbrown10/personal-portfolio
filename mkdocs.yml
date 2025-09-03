@@ -1,0 +1,112 @@
+site_name: Alex Brown Consulting
+# will update when confirmed with CNAME redirect, etc site_url: https://alexbrownconsulting.com
+site_author: Alex Brown
+
+# configuration
+theme:
+  name: material
+  palette: 
+    # Dark-Light mode toggles
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to Dark Mode
+    
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: green
+      toggle:
+        icon: material/brightness-5
+        name: Switch to Light Mode
+  font: 
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    annotation: material/arrow-right-circle
+  logo: assets/images/ab-consulting-stylized-logo-v1.png
+
+  # features
+  features:
+    - announce.dismiss
+    - navigation.top
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+# navigation
+nav:
+  - Home: index.md
+  - About: about.md
+  - Portfolio: portfolio.md
+    # - "Samples":
+      # - samples/sample-product.md
+      # - samples/sample-product-2.md
+  - Services: services.md
+  - Resume: resume.md
+  - Contact: contact.md
+
+# installed extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.betterem:
+      smart_enable: 
+  - pymdownx.caret:
+      smart_insert: true
+      insert: true
+      superscript: true
+  - pymdownx.critic:
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+  - pymdownx.smartsymbols:
+      trademark: true
+      copyright: true
+      registered: true
+      care_of: true
+      plusminus: true
+      arrows: true
+      notequal: true
+      fractions: true
+      ordinal_numbers: true
+  - pymdownx.snippets:
+      check_paths: true
+      url_download: false
+      url_max_size: 33554432
+      url_timeout: 10
+  - pymdownx.superfences:
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde:
+  - tables
+  - toc:
+      title: On This Page
+
+# installed plugins
+
+plugins:
+  - search:
+      enabled: false
+
+# extra configurations
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/alex-brown-9a4b0b19a/
+    - icon: fontawesome/brands/github
+      link: https://github.com/alexbrown10
+copyright: Copyright 2020-2025 Alex Brown
