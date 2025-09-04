@@ -27,7 +27,7 @@ Here's the whistle-stop tour of my website:
 
     ---
 
-    A selection of my best works across industries, with a bonus sample of the kind of documentation hubs I build.
+    A selection of my best works across industries, with additional samples available upon request.
 
     [:octicons-arrow-right-24: Portfolio](/portfolio/)
 

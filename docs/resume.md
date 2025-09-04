@@ -18,7 +18,7 @@ Confidential GenAI Startup | `Remote` | Full-Time | June 2024 - Present
 
 ### Freelance Technical Writer
 
-| Alex Brown Consulting | `Remote` | Variable | March 2020 - Present
+Alex Brown Consulting | `Remote` | Variable | March 2020 - Present
 
 - Built product and developer documentation hubs for SaaS products and APIs (REST, SOAP, & GraphQL), app SDKs, and on-prem installations; using docs-as-code, published on static site generators and content authoring platforms.
 - Modernized existing internal client documentation, architecture, procedures, training materials, and runbooks.

@@ -5,7 +5,7 @@ hide:
 
 # Who am I?
 
-TL;DR: I'm Alex 👋
+TL;DR: I'm Alex 👋 (and the pup is Stevie)
 
 ![portrait of me with Stevie](/assets/images/alex-stevie-headshot-crop.jpg){ width="43%" align=left style="border-radius: 15px" }
 
