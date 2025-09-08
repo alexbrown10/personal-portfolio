@@ -21,7 +21,7 @@ Here's the whistle-stop tour of my website:
     
     A bit more detail about me, my skill set, and methodologies.
 
-    [:octicons-arrow-right-24: About](/personal-portfolio/about/)
+    [:octicons-arrow-right-24: About](/about/)
 
 -   :material-folder-search:{ .lg .middle } **See My Work**
 
@@ -29,7 +29,7 @@ Here's the whistle-stop tour of my website:
 
     A selection of my best works across industries, with additional samples available upon request.
 
-    [:octicons-arrow-right-24: Portfolio](/personal-portfolio/portfolio/)
+    [:octicons-arrow-right-24: Portfolio](/portfolio/)
 
 -   :material-cart:{ .lg .middle } **What I Offer**
 
@@ -37,7 +37,7 @@ Here's the whistle-stop tour of my website:
 
     Information about the kinds of work I do, at what scales, and what to expect from our working partnership.
 
-    [:octicons-arrow-right-24: Services](/personal-portfolio/services/)
+    [:octicons-arrow-right-24: Services](/services/)
 
 -   :material-account-details:{ .lg .middle } **Work Experience**
 
@@ -45,7 +45,7 @@ Here's the whistle-stop tour of my website:
 
     A quick history of my relevant work experience.
 
-    [:octicons-arrow-right-24: Resume](/personal-portfolio/resume/)
+    [:octicons-arrow-right-24: Resume](/resume/)
 
 -   :material-email-fast:{ .lg .middle } **Let's Talk**
 
@@ -53,7 +53,7 @@ Here's the whistle-stop tour of my website:
 
     A simple contact form to get in touch with me directly.
 
-    [:octicons-arrow-right-24: Contact](/personal-portfolio/contact/)
+    [:octicons-arrow-right-24: Contact](/contact/)
 
 </div>
 
