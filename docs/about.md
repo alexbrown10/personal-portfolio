@@ -7,7 +7,7 @@ hide:
 
 TL;DR: I'm Alex 👋 (and the pup is Stevie)
 
-![portrait of me with Stevie](/personal-portfolio/assets/images/alex-stevie-headshot-crop.jpg){ width="43%" align=left style="border-radius: 15px" }
+![portrait of me with Stevie](/assets/images/alex-stevie-headshot-crop.jpg){ width="43%" align=left style="border-radius: 15px" }
 
 I'm a lifelong lover of language, education, and technology, so Technical Writing has been the perfect field for me to stay up to date on the latest technologies while continually honing my writing skills. 
 
