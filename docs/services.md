@@ -77,4 +77,4 @@ Similar to the "timelines" section above, billing breaks down in a variety of wa
 
 ## Ready?
 
-Let's talk! Go to [Contact](/contact/){target="_blank"} and email me to get the conversation rolling. I can't wait to hear from you and get to work. 
+Let's talk! Go to [Contact](/personal-portfolio/contact/){target="_blank"} and email me to get the conversation rolling. I can't wait to hear from you and get to work. 
