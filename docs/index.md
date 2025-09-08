@@ -21,7 +21,7 @@ Here's the whistle-stop tour of my website:
     
     A bit more detail about me, my skill set, and methodologies.
 
-    [:octicons-arrow-right-24: About](/personal-portfolio/about/)
+    [:octicons-arrow-right-24: About](/personal-portfolio/about.html/)
 
 -   :material-folder-search:{ .lg .middle } **See My Work**
 
