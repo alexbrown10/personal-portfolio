@@ -28,6 +28,7 @@ theme:
   icon:
     annotation: material/arrow-right-circle
   logo: assets/images/ab-consulting-stylized-logo-v1.png
+  favicon: assets/images/ab-consulting-stylized-logo-v1.png
 
   # features
   features:
@@ -107,6 +108,8 @@ extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/alex-brown-9a4b0b19a/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:contact@alexbrownconsulting.com
     - icon: fontawesome/brands/github
       link: https://github.com/alexbrown10
 copyright: Copyright 2020-2025 Alex Brown

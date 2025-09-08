@@ -9,7 +9,7 @@ I'm Alex Brown: Seattle-based technical writer and documentation expert by day, 
 
 I work with clients of all sizes and industries, from Y Combinator grads to Fortune 100 enterprises, to take their documentation to the next level. 
 
-I have more than 7 years of experience in SaaS, DaaS (Data-as-a-Service), and other software paradigms, and I excel at both creating documentation from the ground up as well as modernizing the documentation you have for today's AI-forward era. 
+I have more than 7 years of experience in SaaS, DaaS (Data-as-a-Service), and other product environments, and I excel at both creating documentation from the ground up as well as modernizing the documentation you have for today's AI-forward era. 
 
 Here's the whistle-stop tour of my website:
 
