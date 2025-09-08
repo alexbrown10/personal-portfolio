@@ -52,7 +52,7 @@ To get the ball rolling, I will want to know the following:
 - Contact **work** email address
 - Industry/Field
 - Your 3 Sentence "Elevator Pitch" for the product/tool/platform
-- Which of my [Services](/services/){target="_blank"} you want
+- Which of my [Services](/personal-portfolio/services/){target="_blank"} you want
 - Your projected completion or launch timeline(s)
 - Your projected budget
 - Any other details to better round out the project brief
